@@ -2,3 +2,4 @@ com.kidquest.app:id/webview = 0x7f040000
 com.kidquest.app:layout/activity_main = 0x7f020000
 com.kidquest.app:mipmap/ic_launcher = 0x7f030000
 com.kidquest.app:string/app_name = 0x7f050000
+com.kidquest.app:style/AppTheme = 0x7f060000
